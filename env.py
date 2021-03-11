@@ -1,5 +1,6 @@
 config = {}
 
+# replace x with actual values
 config['WEBEX_BASE_URL'] = "https://webexapis.com"
 config['WEBEX_ACCESS_TOKEN'] = "x"
 config['PRODUCTION_ROOM'] = "x"
